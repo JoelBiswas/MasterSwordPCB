@@ -17,8 +17,8 @@ Mini Motor Disc - 1
 Potentiometer - 1
 CR2032 battery cell - 1
 
-<img width="942" alt="Screenshot 2025-05-04 at 10 13 09 PM" src="https://github.com/user-attachments/assets/cb8d70d5-4a12-40ac-a009-58153777ec92" />
-![Screenshot 2025-05-04 at 10 13 47 PM](https://github.com/user-attachments/assets/c7617a8c-f57c-47d8-aec9-dcf0ca5426fd)
-![Screenshot 2025-05-04 at 10 13 55 PM](https://github.com/user-attachments/assets/6d0be006-dc65-4073-ae20-60a476702527)
-![Screenshot 2025-05-04 at 10 14 28 PM](https://github.com/user-attachments/assets/63bd6773-c683-4a3c-91e8-fad09c15b1b1)
-![Screenshot 2025-05-04 at 10 14 51 PM](https://github.com/user-attachments/assets/e0563334-b4fc-4ef8-81ff-12c736159511)
+<img width="942" alt="Schematics" src="https://github.com/user-attachments/assets/cb8d70d5-4a12-40ac-a009-58153777ec92" />
+<img width="942" alt="PCB 1" src="https://github.com/user-attachments/assets/c7617a8c-f57c-47d8-aec9-dcf0ca5426fd" />
+<img width="942" alt="PCB 2" src="https://github.com/user-attachments/assets/6d0be006-dc65-4073-ae20-60a476702527" />
+<img width="942" alt="3D 1" src="https://github.com/user-attachments/assets/63bd6773-c683-4a3c-91e8-fad09c15b1b1" />
+<img width="942" alt="3D 2" src="https://github.com/user-attachments/assets/e0563334-b4fc-4ef8-81ff-12c736159511" />
